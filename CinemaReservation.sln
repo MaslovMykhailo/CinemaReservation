@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaReservation", "CinemaReservation\CinemaReservation.csproj", "{4B002419-307D-4AD4-A5C0-B44BF897156E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaReservation.Persisted", "CinemaReservation.Persisted\CinemaReservation.Persisted.csproj", "{A41B0567-3041-435F-A870-D1310BC6F16C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaReservation.BusinessLogic", "CinemaReservation.BusinessLogic\CinemaReservation.BusinessLogic.csproj", "{A433E0A4-4DB3-4F06-A48D-E976E4B5DC17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B002419-307D-4AD4-A5C0-B44BF897156E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B002419-307D-4AD4-A5C0-B44BF897156E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B002419-307D-4AD4-A5C0-B44BF897156E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B002419-307D-4AD4-A5C0-B44BF897156E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41B0567-3041-435F-A870-D1310BC6F16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41B0567-3041-435F-A870-D1310BC6F16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41B0567-3041-435F-A870-D1310BC6F16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41B0567-3041-435F-A870-D1310BC6F16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A433E0A4-4DB3-4F06-A48D-E976E4B5DC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A433E0A4-4DB3-4F06-A48D-E976E4B5DC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A433E0A4-4DB3-4F06-A48D-E976E4B5DC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A433E0A4-4DB3-4F06-A48D-E976E4B5DC17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A766EFF7-60DA-498D-A608-0061DCA9547C}
+	EndGlobalSection
+EndGlobal
